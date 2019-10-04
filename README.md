@@ -1,6 +1,6 @@
 # nemo-multigrid-adaptation
 This repository contains sources for a modified version of NEMO 3.6 ocean model adapted for multigrid high-resolution Arctic simulation. These modifications provides more exible and customisable tools for high-resolution regional Arctic (but not restricted to it) simulations, that helps in the assessment of shipping and operational risks.
-The details of proposed changes are described in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S1463500318301410).
+The details of proposed changes are described in this [paper](https://www.researchgate.net/publication/328189186_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation).
 ## More
 First of all, we aimed to create a dataset with appropriate historical coverage and sufficiently high spatial resolution. We reached our goals with a custom simulation framework comprising three main components: 
 * the WRF atmospheric model
